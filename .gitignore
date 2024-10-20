@@ -1,0 +1,13 @@
+*.pyc
+**/*.pyc
+/.idea
+/venv
+*.sqlite3
+**/migrations
+**/stream/data
+stream/
+record/
+**/__pycache__
+**/__pycache__/
+streamManagement/Camera-Streaming-Microservice/stream/YamlFolder/
+
